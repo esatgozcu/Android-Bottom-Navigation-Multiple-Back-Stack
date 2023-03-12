@@ -7,11 +7,11 @@
 
     <item
         android:id="@+id/search_graph"
-        android:icon="@drawable/ic_home_black_24dp"
+        android:icon="@drawable/ic_baseline_search_24"
         android:title="Search" />
 
     <item
         android:id="@+id/settings_graph"
-        android:icon="@drawable/ic_home_black_24dp"
+        android:icon="@drawable/ic_baseline_settings_24"
         android:title="Settings" />
 </menu>
