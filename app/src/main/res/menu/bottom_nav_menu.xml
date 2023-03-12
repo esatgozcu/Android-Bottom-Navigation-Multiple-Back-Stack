@@ -1,19 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
     <item
-        android:id="@+id/nav_graph_home"
+        android:id="@+id/home_graph"
         android:icon="@drawable/ic_home_black_24dp"
         android:title="Home" />
 
     <item
-        android:id="@+id/nav_graph_search"
+        android:id="@+id/search_graph"
         android:icon="@drawable/ic_home_black_24dp"
         android:title="Search" />
 
     <item
-        android:id="@+id/nav_graph_settings"
+        android:id="@+id/settings_graph"
         android:icon="@drawable/ic_home_black_24dp"
         android:title="Settings" />
-
 </menu>

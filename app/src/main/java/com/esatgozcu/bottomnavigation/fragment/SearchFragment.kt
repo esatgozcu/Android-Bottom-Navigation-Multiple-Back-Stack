@@ -8,6 +8,7 @@ import android.view.ViewGroup
 import com.esatgozcu.bottomnavigation.databinding.FragmentSearchBinding
 
 class SearchFragment : Fragment() {
+
     private var _binding: FragmentSearchBinding? = null
     private val binding get() = _binding!!
 
